@@ -93,7 +93,7 @@ body {
 }
 .hero {
   width: 100%;
-  background-image: url("../images/blog-image-hero.png");
+  background-image: url("images/blog-image-hero.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
