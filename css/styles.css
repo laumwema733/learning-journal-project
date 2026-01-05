@@ -19,9 +19,8 @@ img {
 body {
   font-family: "Source Sans 3", sans-serif;
 }
-div .btn {
+.btn {
   border: 0;
-  border: red;
   cursor: pointer;
 }
 /* utility */
@@ -98,7 +97,7 @@ div .btn {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #000000d2;
+  background-image: url("/blog-image-hero@3x.png");
   color: #fff;
   min-height: 414px;
   display: flex;
