@@ -93,11 +93,11 @@ body {
 }
 .hero {
   width: 100%;
-  background-image: url("/images/blog-image-hero.png");
+  background-image: url("../images/blog-image-hero.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("blog-image-hero@3x.png");
+  /* background-image: url("blog-image-hero@3x.png"); */
   color: #fff;
   min-height: 414px;
   display: flex;
